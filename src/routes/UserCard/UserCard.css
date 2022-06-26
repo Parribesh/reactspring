@@ -1,0 +1,13 @@
+.userCard-root {
+  display: flex;
+  background-color: rgb(240, 178, 55);
+  border: 2px solid rgb(25, 23, 23);
+  margin: 2px;
+}
+img {
+  border-radius: 50px;
+}
+ul {
+  text-decoration: none;
+  list-style: none;
+}
